@@ -1,5 +1,6 @@
 package com.david.sanchez.technicalchallenge.tasks;
 
+import com.david.sanchez.technicalchallenge.model.UserData;
 import com.david.sanchez.technicalchallenge.userinterface.InsertAddress;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;
@@ -8,7 +9,6 @@ import net.serenitybdd.screenplay.actions.Click;
 import net.serenitybdd.screenplay.actions.Enter;
 import net.serenitybdd.screenplay.actions.Hit;
 import org.openqa.selenium.Keys;
-import com.david.sanchez.technicalchallenge.model.UserData;
 
 import java.util.List;
 
