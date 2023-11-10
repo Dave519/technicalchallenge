@@ -5,7 +5,6 @@ import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Question;
 import net.serenitybdd.screenplay.questions.Text;
 
-
 public class Answers implements Question<Boolean> {
 
     private String strVerifyRegister;
